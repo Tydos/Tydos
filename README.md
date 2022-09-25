@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tydos"  /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tydos&theme=dracula"  /></p>
