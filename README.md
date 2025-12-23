@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
   
 # Hi, I'm Prasad Jawale
 
-I'm a Master's student in Data Science at the University of Wisconsin–Madison, driven by a passion for uncovering insights from data and building intelligent systems that solve real-world problems. I like working with data, transforming and analyzing it to help solve real-life problems better. My area of interest is in combining web software development with artificial intelliegence and data science to create enterprise grade applications.
+I'm a Master's student in Data Science at the University of Wisconsin–Madison, driven by a passion for uncovering insights from data and building intelligent systems that solve real-world problems. I like working with data, transforming and analyzing it to help solve real-life problems better. My area of interest is in combining web software development with artificial intelligence and data science to create enterprise grade applications.
 
 ## About Me
 
@@ -75,13 +75,13 @@ My background blends statistics, machine learning, and hands-on experience with 
   </tr>
 </table>
 
-##  Github Stats
+##  Prasad's Stats
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tydos&show_icons=true&locale=en&theme=dracula" /></p> -->
 
 <!-- <br> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tydos&theme=dracula"  /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tydos&theme=dracula"  />
 
 ---
 
