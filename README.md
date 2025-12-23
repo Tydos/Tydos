@@ -81,7 +81,7 @@ My background blends statistics, machine learning, and hands-on experience with 
 
 <br> 
 <p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Tydos&theme=dracula" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Tydos&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---
