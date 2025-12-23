@@ -75,14 +75,7 @@ My background blends statistics, machine learning, and hands-on experience with 
   </tr>
 </table>
 
-##  Prasad's Stats
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tydos&show_icons=true&locale=en&theme=dracula" /></p> -->
-
-<br> 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Tydos&theme=dracula" alt="GitHub Streak" />
-</p>
 
 ---
 
