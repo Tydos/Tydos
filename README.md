@@ -80,7 +80,9 @@ My background blends statistics, machine learning, and hands-on experience with 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tydos&show_icons=true&locale=en&theme=dracula" /></p> -->
 
 <br> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tydos&theme=dracula"  /></p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tydos"  />
+</p>
 
 ---
 
